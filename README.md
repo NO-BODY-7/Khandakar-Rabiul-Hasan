@@ -39,7 +39,7 @@
 
 | Project | Description | Language |
 |--------|-------------|----------|
-| [🏨 Hostel Management System](https://github.com/Rabiul-7/hostel-management-system) | C-based terminal app with login, room allocation, fees, complaints | C |
+| [🏨 Hostel Management System](https://github.com/Rabiul-7/hostel-management-system) | A C-based terminal project with login system, room allocation, fees & complaint management using file handling | C |
 
 ---
 
