@@ -4,12 +4,12 @@
 
 <p align="center">
   🎓 Software Engineering Student @ Daffodil International University <br>
-  🔒 Cybersecurity Enthusiast | 💻 Backend Development with C & Python <br>
-  🌐 Passionate about secure and scalable system building.
+  🔒 Cybersecurity Enthusiast | 💻 Backend Developer (C & Python) <br>
+  🌐 Passionate about building secure, scalable systems.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khandakar-Rabiul-Hasan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=Rabiul-7&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ## 🛠️ Skills & Interests
 
 - 💻 C Programming | Data Structures & Algorithms (DSA)
-- 🌐 Python for Backend, Automation, and Scripting
+- 🌐 Python for Backend, Scripting, Automation
 - 🛡️ Ethical Hacking | OSINT | Linux | Digital Forensics
 - 📂 Git & GitHub for Version Control
 - 🌱 Currently Learning: Network Security, Cryptography, API Pentesting
@@ -39,15 +39,15 @@
 
 | Project | Description | Language |
 |--------|-------------|----------|
-| [🏨 Hostel Management System](https://github.com/Khandakar-Rabiul-Hasan/hostel-management-system) | C-based CLI system with file handling, student/admin login, room & fee management | C |
+| [🏨 Hostel Management System](https://github.com/Rabiul-7/hostel-management-system) | C-based terminal app with login, room allocation, fees, complaints | C |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Khandakar-Rabiul-Hasan&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Khandakar-Rabiul-Hasan&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabiul-7&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiul-7&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -55,9 +55,9 @@
 ## 📫 Connect with Me
 
 - 📧 Email: **rabiul242-35-249@diu.edu.bd**
-- 🐱 GitHub: [Khandakar-Rabiul-Hasan](https://github.com/Khandakar-Rabiul-Hasan)
+- 🐱 GitHub: [Rabiul-7](https://github.com/Rabiul-7)
 - 👥 Facebook: [Somrat808080](https://www.facebook.com/somrat808080)
 
 ---
 
-_Thanks for visiting my profile! I love exploring cybersecurity and backend development, and building real-world systems using C and Python._
+_Thanks for visiting my profile! I'm passionate about cybersecurity and backend development using C & Python. Always learning, always building._
