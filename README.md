@@ -43,15 +43,11 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khandakar-Rabiul-Hasan&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khandakar-Rabiul-Hasan&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khandakar-Rabiul-Hasan&theme=tokyonight" width="60%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Khandakar-Rabiul-Hasan&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Khandakar-Rabiul-Hasan&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
