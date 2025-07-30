@@ -4,8 +4,12 @@
 
 <p align="center">
   🎓 Software Engineering Student @ Daffodil International University <br>
-  🔒 Cybersecurity | 💻 Backend Development | 🧠 AI-Driven Security <br>
-  🌐 Passionate about building secure, scalable systems using C, Python, and Linux.
+  🔒 Cybersecurity Enthusiast | 💻 Backend Development with C & Python <br>
+  🌐 Passionate about secure and scalable system building.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Khandakar-Rabiul-Hasan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ---
@@ -39,11 +43,15 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Khandakar-Rabiul-Hasan&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khandakar-Rabiul-Hasan&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khandakar-Rabiul-Hasan&theme=tokyonight" width="60%" />
 </p>
 
 ---
@@ -53,10 +61,7 @@
 - 📧 Email: **rabiul242-35-249@diu.edu.bd**
 - 🐱 GitHub: [Khandakar-Rabiul-Hasan](https://github.com/Khandakar-Rabiul-Hasan)
 - 👥 Facebook: [Somrat808080](https://www.facebook.com/somrat808080)
-- 💼 LinkedIn: 
 
 ---
 
-_Thanks for visiting my profile! I love building and breaking things to learn how they work!_
-
----
+_Thanks for visiting my profile! I love exploring cybersecurity and backend development, and building real-world systems using C and Python._
